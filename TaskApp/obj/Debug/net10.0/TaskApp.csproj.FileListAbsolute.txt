@@ -1,0 +1,17 @@
+C:\Users\lgogi\RiderProjects\TaskApp\TaskApp\bin\Debug\net10.0\TaskApp.exe
+C:\Users\lgogi\RiderProjects\TaskApp\TaskApp\bin\Debug\net10.0\TaskApp.deps.json
+C:\Users\lgogi\RiderProjects\TaskApp\TaskApp\bin\Debug\net10.0\TaskApp.runtimeconfig.json
+C:\Users\lgogi\RiderProjects\TaskApp\TaskApp\bin\Debug\net10.0\TaskApp.dll
+C:\Users\lgogi\RiderProjects\TaskApp\TaskApp\bin\Debug\net10.0\TaskApp.pdb
+C:\Users\lgogi\RiderProjects\TaskApp\TaskApp\bin\Debug\net10.0\HtmlAgilityPack.dll
+C:\Users\lgogi\RiderProjects\TaskApp\TaskApp\obj\Debug\net10.0\TaskApp.csproj.AssemblyReference.cache
+C:\Users\lgogi\RiderProjects\TaskApp\TaskApp\obj\Debug\net10.0\TaskApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgogi\RiderProjects\TaskApp\TaskApp\obj\Debug\net10.0\TaskApp.AssemblyInfoInputs.cache
+C:\Users\lgogi\RiderProjects\TaskApp\TaskApp\obj\Debug\net10.0\TaskApp.AssemblyInfo.cs
+C:\Users\lgogi\RiderProjects\TaskApp\TaskApp\obj\Debug\net10.0\TaskApp.csproj.CoreCompileInputs.cache
+C:\Users\lgogi\RiderProjects\TaskApp\TaskApp\obj\Debug\net10.0\TaskApp.csproj.Up2Date
+C:\Users\lgogi\RiderProjects\TaskApp\TaskApp\obj\Debug\net10.0\TaskApp.dll
+C:\Users\lgogi\RiderProjects\TaskApp\TaskApp\obj\Debug\net10.0\refint\TaskApp.dll
+C:\Users\lgogi\RiderProjects\TaskApp\TaskApp\obj\Debug\net10.0\TaskApp.pdb
+C:\Users\lgogi\RiderProjects\TaskApp\TaskApp\obj\Debug\net10.0\TaskApp.genruntimeconfig.cache
+C:\Users\lgogi\RiderProjects\TaskApp\TaskApp\obj\Debug\net10.0\ref\TaskApp.dll
